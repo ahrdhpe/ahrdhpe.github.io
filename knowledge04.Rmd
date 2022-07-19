@@ -9,3 +9,16 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Topics for Virtual Series (HPE SIG)
+- Leadership in Healthcare
+- Mental Health and Well-being of Healthcare Workers
+- Training and Development of Healthcare workers
+- Workforce Challenges Linked to SDGs Global Health and Wellbeing
+- Technology and Healthcare Workers
+- Mapping motivation for healthcare workers and burnout
+- Talent Acquisition in Healthcare
+- Innovative HRD Practices in Healthcare workers
+- Burnout and Turnover in Healthcare: Mapping potential Solutions
+- Managing Employee Engagement in Healthcare
+- Burnouts and Patient Dissatisfaction in the Healthcare Industry
+- Diversity in Healthcare
