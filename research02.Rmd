@@ -11,6 +11,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Working Research Project
 | Year |            Title           | PI | Link |
-|------|-------------|--------------|
+|------|-------------|--------------|----|------|
 | 2022 | [temp] Learning and Development in Health Professional Education | TBA | ![link](resource/ahrdhpe1.pdf) |
 | 2022 | [temp] Mapping Health Profession Education Researches | TBA | ![link](resource/ahrdhpe2.pdf) |
