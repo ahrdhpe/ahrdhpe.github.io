@@ -6,19 +6,17 @@ output_dir: "docs"
 navbar:
   right:
     - text: "Home"
-      href: charter01.html
+      href: charter.html
     - text: "Chater"
-      href: charter01.html
+      href: charter.html
     - text: "Research"
-      href: research02.html
+      href: researc2.html
     - text: "Project"
-      href: project03.html
+      href: project.html
     - text: "knowledge Vault"
-      href: knowledge04.html
+      href: knowledge.html
     - text: "Webinar"
       href: webinar.html
     - text: "Meeting Minute"
       href: https://docs.google.com/document/d/161SsdtTOFaQ2Aw83BxMYyt8HvnBEY_mE4hS1OM0wyRc/edit#
-    - text: "About"
-      href: about.html
 output: distill::distill_article
