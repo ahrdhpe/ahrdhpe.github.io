@@ -10,7 +10,7 @@ navbar:
     - text: "Chater"
       href: charter.html
     - text: "Research"
-      href: researc2.html
+      href: research.html
     - text: "Project"
       href: project.html
     - text: "knowledge Vault"
