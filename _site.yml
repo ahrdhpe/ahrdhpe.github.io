@@ -1,0 +1,20 @@
+name: "AHRDHPE"
+title: "Special Interest Group Charter: Health Professions Education (HPE)"
+description: |
+  Special Interest Group Charter: Health Professions Education (HPE)
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: charter01.html
+    - text: "Chater"
+      href: charter01.html
+    - text: "Research"
+      href: research02.html
+    - text: "Project"
+      href: project03.html
+    - text: "knowledge Vault"
+      href: knowledge04.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
